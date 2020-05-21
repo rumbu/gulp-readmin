@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "gulp-usemin": "^0.3.30",
+    "gulp-usemin": "git+ssh://git@github.com/rumbu/gulp-usemin.git",
     "gulp-util": "^3.0.6",
     "through2": "^2.0.0"
   },
